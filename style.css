@@ -1,0 +1,20 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: box-border;
+  font-size: 70px;
+}
+img{
+  width:500px;
+}
+p{
+  padding-bottom: 30px;
+  font-size: 70px;
+}
+center{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+span{
+  background-color: yellowgreen;
+}
